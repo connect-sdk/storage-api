@@ -1,0 +1,16 @@
+# prettier-ignore
+---
+version: v1
+
+name: buf.build/connect-sdk/storage-api
+
+deps:
+  - buf.build/googleapis/googleapis
+  - buf.build/envoyproxy/protoc-gen-validate
+
+lint:
+  use:
+    - DEFAULT
+  except:
+    - ENUM_VALUE_PREFIX
+  allow_comment_ignores: true
