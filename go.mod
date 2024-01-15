@@ -3,7 +3,7 @@ module github.com/connect-sdk/storage-api
 go 1.21.1
 
 require (
-	github.com/envoyproxy/protoc-gen-validate v1.0.2
+	github.com/envoyproxy/protoc-gen-validate v1.0.3
 	google.golang.org/api v0.156.0
 	google.golang.org/genproto/googleapis/api v0.0.0-20231212172506-995d672761c0
 	google.golang.org/protobuf v1.32.0
