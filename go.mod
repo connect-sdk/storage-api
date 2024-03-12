@@ -5,7 +5,7 @@ go 1.21.1
 require (
 	github.com/envoyproxy/protoc-gen-validate v1.0.4
 	google.golang.org/api v0.169.0
-	google.golang.org/genproto/googleapis/api v0.0.0-20240228224816-df926f6c8641
+	google.golang.org/genproto/googleapis/api v0.0.0-20240304161311-37d4d3c04a78
 	google.golang.org/protobuf v1.33.0
 )
 
@@ -42,7 +42,7 @@ require (
 )
 
 require (
-	cloud.google.com/go/storage v1.39.0
+	cloud.google.com/go/storage v1.39.1
 	connectrpc.com/connect v1.15.0
 	github.com/connect-sdk/pubsub-api v0.0.0-20240219232254-21d6a9367c0e
 	google.golang.org/genproto v0.0.0-20240228224816-df926f6c8641 // indirect
