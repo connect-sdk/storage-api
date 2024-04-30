@@ -6,7 +6,7 @@ require (
 	github.com/envoyproxy/protoc-gen-validate v1.0.4
 	google.golang.org/api v0.176.1
 	google.golang.org/genproto/googleapis/api v0.0.0-20240314234333-6e1732d8331c
-	google.golang.org/protobuf v1.33.0
+	google.golang.org/protobuf v1.34.0
 )
 
 require (
