@@ -43,7 +43,7 @@ require (
 
 require (
 	cloud.google.com/go/storage v1.41.0
-	connectrpc.com/connect v1.16.1
+	connectrpc.com/connect v1.16.2
 	github.com/connect-sdk/pubsub-api v0.0.0-20240219232254-21d6a9367c0e
 	google.golang.org/genproto v0.0.0-20240401170217-c3f982113cda // indirect
 )
