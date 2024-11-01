@@ -55,7 +55,7 @@ require (
 )
 
 require (
-	cloud.google.com/go/storage v1.45.0
+	cloud.google.com/go/storage v1.46.0
 	connectrpc.com/connect v1.17.0
 	github.com/connect-sdk/pubsub-api v0.0.0-20240219232254-21d6a9367c0e
 	google.golang.org/genproto v0.0.0-20241021214115-324edc3d5d38 // indirect
