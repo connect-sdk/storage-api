@@ -4,7 +4,7 @@ go 1.21.1
 
 require (
 	github.com/envoyproxy/protoc-gen-validate v1.1.0
-	google.golang.org/api v0.207.0
+	google.golang.org/api v0.208.0
 	google.golang.org/genproto/googleapis/api v0.0.0-20241104194629-dd2ea8efbc28
 	google.golang.org/protobuf v1.35.2
 )
