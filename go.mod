@@ -1,11 +1,11 @@
 module github.com/connect-sdk/storage-api
 
 go 1.21.1
-toolchain go1.23.6
+toolchain go1.24.1
 
 require (
 	github.com/envoyproxy/protoc-gen-validate v1.2.1
-	google.golang.org/api v0.225.0
+	google.golang.org/api v0.226.0
 	google.golang.org/genproto/googleapis/api v0.0.0-20250303144028-a0af3efb3deb
 	google.golang.org/protobuf v1.36.5
 )
