@@ -6,7 +6,7 @@ toolchain go1.24.1
 
 require (
 	github.com/envoyproxy/protoc-gen-validate v1.3.0
-	google.golang.org/api v0.265.0
+	google.golang.org/api v0.266.0
 	google.golang.org/genproto/googleapis/api v0.0.0-20260203192932-546029d2fa20
 	google.golang.org/protobuf v1.36.11
 )
